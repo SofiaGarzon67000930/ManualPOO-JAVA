@@ -1,2 +1,2 @@
-# ManualPOO_JAVA
+# Manual POO JAVA
 Aprendiendo Java
