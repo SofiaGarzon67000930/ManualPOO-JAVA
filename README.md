@@ -33,3 +33,5 @@ En VS Code basta con abrir la carpeta `ManualPOO-JAVA` y usar Run sobre el `main
 - `PedirFila` espera datos por teclado.
 - `PruebaJugador` termina a propósito con una `IllegalArgumentException`
   (sección Métodos getters y setters).
+
+prueba final
